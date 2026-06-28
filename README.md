@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-zarter-funke/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ein zarter Funke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-zarter-funke/) |
+| **Get License** | [Get a Licensing Quote for Ein zarter Funke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-zarter-funke/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, die Skyline leuchtet nur für uns heut Nacht
+> Fahr’ im Benz durch die City, hab’ nur an dich gedacht
+> Dein Blick so deep, yeah, du ziehst mich in deinen Bann
+> Wir flieh’n aus der Matrix, catch my vibe, wenn du kannst
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
